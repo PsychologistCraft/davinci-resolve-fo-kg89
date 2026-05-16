@@ -1,4 +1,4 @@
-# 
+# Enhance DaVinci Resolve for PC | DaVinci Resolve for Windows with updated Plugin for DaVinci Resolve for PC | DaVinci Resolve for Windows - transition-effects and audio-sync, the
 
 
 
